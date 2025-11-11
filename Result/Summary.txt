@@ -1,0 +1,650 @@
+File 01:
+Symbolic computations:
+1 : Time: 0.032 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.161 +/- 0.022 , Timeout: 0 , Step: 2.6 +/- 0.49
+3 : Time: 0.547 +/- 0.039 , Timeout: 0 , Step: 2.4 +/- 0.49
+4 : Time: 3.195 +/- 0.164 , Timeout: 0 , Step: 2.5 +/- 0.5
+5 : Time: 7.069 +/- 0.305 , Timeout: 0 , Step: 5.6 +/- 0.663
+6 : Time: 17.311 +/- 3.094 , Timeout: 0 , Step: 8.3 +/- 1.616
+7 : Time: 46.284 +/- 7.817 , Timeout: 0 , Step: 12.7 +/- 2.002
+8 : Time: 139.942 +/- 32.076 , Timeout: 0 , Step: 15.6 +/- 1.114
+
+ILP computations:
+1 : Time: 0.008 +/- 0.0 , Timeout: 0
+2 : Time: 0.039 +/- 0.002 , Timeout: 0
+3 : Time: 0.347 +/- 0.013 , Timeout: 0
+4 : Time: 4.035 +/- 0.131 , Timeout: 0
+5 : Time: 54.639 +/- 7.003 , Timeout: 0
+6 : Time: 61.696 +/- 6.224 , Timeout: 0
+7 : Time: 572.366 +/- 7.325 , Timeout: 0
+8 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 02:
+Symbolic computations:
+1 : Time: 0.034 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.168 +/- 0.033 , Timeout: 0 , Step: 2.8 +/- 0.4
+3 : Time: 0.561 +/- 0.116 , Timeout: 0 , Step: 5.3 +/- 0.458
+4 : Time: 1.283 +/- 0.085 , Timeout: 0 , Step: 5.0 +/- 0.775
+5 : Time: 14.26 +/- 3.012 , Timeout: 0 , Step: 5.9 +/- 0.7
+6 : Time: 56.59 +/- 23.17 , Timeout: 0 , Step: 7.1 +/- 0.7
+7 : Time: 104.331 +/- 28.975 , Timeout: 0 , Step: 8.2 +/- 0.872
+8 : Time: 1000.0 +/- 0.0 , Timeout: 10 , Step: 7.5 +/- 0.806
+
+ILP computations:
+1 : Time: 0.144 +/- 0.002 , Timeout: 0
+2 : Time: 0.626 +/- 0.017 , Timeout: 0
+3 : Time: 5.986 +/- 0.274 , Timeout: 0
+4 : Time: 79.66 +/- 5.505 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 388.264 +/- 160.135
+    Time for approximation: 200.084 +/- 9.852
+    Time for solving: 188.18 +/- 165.532
+    Timeout when solving: 0
+    Number of steps: 2.1 +/- 1.375
+    Number of times the starting DFA worked (no timeout): 5
+
+File 03:
+Symbolic computations:
+1 : Time: 0.034 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.098 +/- 0.004 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.095 +/- 0.008 , Timeout: 0 , Step: 3.0 +/- 0.0
+4 : Time: 0.387 +/- 0.043 , Timeout: 0 , Step: 3.0 +/- 0.0
+5 : Time: 1.446 +/- 0.298 , Timeout: 0 , Step: 4.7 +/- 0.458
+6 : Time: 4.184 +/- 1.524 , Timeout: 0 , Step: 5.6 +/- 0.49
+7 : Time: 49.593 +/- 24.312 , Timeout: 0 , Step: 6.5 +/- 0.5
+8 : Time: 296.948 +/- 126.747 , Timeout: 0 , Step: 8.4 +/- 0.8
+
+ILP computations:
+1 : Time: 1.429 +/- 0.029 , Timeout: 0
+2 : Time: 6.286 +/- 0.324 , Timeout: 0
+3 : Time: 93.525 +/- 1.469 , Timeout: 0
+4 : Time: 759.366 +/- 176.333 , Timeout: 2
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 04:
+Symbolic computations:
+1 : Time: 0.033 +/- 0.004 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.13 +/- 0.012 , Timeout: 0 , Step: 3.0 +/- 0.0
+3 : Time: 0.153 +/- 0.014 , Timeout: 0 , Step: 4.0 +/- 0.0
+4 : Time: 0.221 +/- 0.033 , Timeout: 0 , Step: 4.0 +/- 0.0
+5 : Time: 2.064 +/- 0.438 , Timeout: 0 , Step: 7.0 +/- 0.632
+6 : Time: 5.503 +/- 0.756 , Timeout: 0 , Step: 10.0 +/- 0.775
+7 : Time: 19.058 +/- 4.701 , Timeout: 0 , Step: 11.6 +/- 0.49
+8 : Time: 60.732 +/- 15.994 , Timeout: 0 , Step: 13.9 +/- 0.831
+
+ILP computations:
+1 : Time: 0.399 +/- 1.183 , Timeout: 0
+2 : Time: 0.018 +/- 0.0 , Timeout: 0
+3 : Time: 0.148 +/- 0.006 , Timeout: 0
+4 : Time: 1.272 +/- 0.115 , Timeout: 0
+5 : Time: 23.146 +/- 4.153 , Timeout: 0
+6 : Time: 523.957 +/- 27.438 , Timeout: 0
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 05:
+Symbolic computations:
+1 : Time: 0.032 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.157 +/- 0.015 , Timeout: 0 , Step: 2.6 +/- 0.49
+3 : Time: 0.513 +/- 0.076 , Timeout: 0 , Step: 4.9 +/- 0.7
+4 : Time: 0.65 +/- 0.097 , Timeout: 0 , Step: 5.2 +/- 0.6
+5 : Time: 4.845 +/- 0.345 , Timeout: 0 , Step: 4.8 +/- 0.6
+6 : Time: 213.431 +/- 33.54 , Timeout: 0 , Step: 4.9 +/- 0.7
+7 : Time: 639.974 +/- 186.036 , Timeout: 0 , Step: 8.2 +/- 1.47
+8 : Time: 778.887 +/- 153.515 , Timeout: 2 , Step: 9.1 +/- 1.578
+
+ILP computations:
+1 : Time: 0.097 +/- 0.002 , Timeout: 0
+2 : Time: 0.446 +/- 0.011 , Timeout: 0
+3 : Time: 2.829 +/- 0.14 , Timeout: 0
+4 : Time: 27.121 +/- 4.557 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 477.676 +/- 41.208
+    Time for approximation: 335.244 +/- 25.414
+    Time for solving: 142.432 +/- 42.449
+    Timeout when solving: 0
+    Number of steps: 1.5 +/- 0.806
+    Number of times the starting DFA worked (no timeout): 7
+
+File 06:
+Symbolic computations:
+1 : Time: 0.033 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.218 +/- 0.013 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.451 +/- 0.144 , Timeout: 0 , Step: 3.0 +/- 0.0
+4 : Time: 1.112 +/- 0.167 , Timeout: 0 , Step: 4.1 +/- 0.3
+5 : Time: 3.497 +/- 1.677 , Timeout: 0 , Step: 5.7 +/- 0.64
+6 : Time: 13.719 +/- 10.11 , Timeout: 0 , Step: 6.6 +/- 0.49
+7 : Time: 89.252 +/- 58.636 , Timeout: 0 , Step: 8.7 +/- 1.552
+8 : Time: 693.741 +/- 213.923 , Timeout: 3 , Step: 10.3 +/- 1.345
+
+ILP computations:
+1 : Time: 1.237 +/- 0.018 , Timeout: 0
+2 : Time: 6.051 +/- 0.397 , Timeout: 0
+3 : Time: 101.065 +/- 7.168 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 721.63 +/- 101.078
+    Time for approximation: 443.819 +/- 44.198
+    Time for solving: 277.811 +/- 102.146
+    Timeout when solving: 0
+    Number of steps: 6.1 +/- 0.943
+    Number of times the starting DFA worked (no timeout): 0
+
+File 07:
+Symbolic computations:
+1 : Time: 0.015 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.061 +/- 0.006 , Timeout: 0 , Step: 3.0 +/- 0.0
+3 : Time: 0.152 +/- 0.009 , Timeout: 0 , Step: 4.0 +/- 0.0
+4 : Time: 0.371 +/- 0.052 , Timeout: 0 , Step: 6.0 +/- 0.0
+5 : Time: 0.804 +/- 0.095 , Timeout: 0 , Step: 6.0 +/- 0.0
+6 : Time: 2.394 +/- 0.765 , Timeout: 0 , Step: 7.3 +/- 0.458
+7 : Time: 8.608 +/- 0.894 , Timeout: 0 , Step: 9.0 +/- 1.265
+8 : Time: 42.895 +/- 8.087 , Timeout: 0 , Step: 12.2 +/- 1.661
+
+ILP computations:
+1 : Time: 0.013 +/- 0.004 , Timeout: 0
+2 : Time: 0.06 +/- 0.008 , Timeout: 0
+3 : Time: 0.473 +/- 0.032 , Timeout: 0
+4 : Time: 3.179 +/- 0.768 , Timeout: 0
+5 : Time: 33.922 +/- 6.227 , Timeout: 0
+6 : Time: 94.158 +/- 9.063 , Timeout: 0
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 08:
+Symbolic computations:
+1 : Time: 0.016 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.074 +/- 0.004 , Timeout: 0 , Step: 3.0 +/- 0.0
+3 : Time: 0.221 +/- 0.036 , Timeout: 0 , Step: 4.1 +/- 0.3
+4 : Time: 0.915 +/- 0.203 , Timeout: 0 , Step: 6.1 +/- 0.3
+5 : Time: 1.109 +/- 0.294 , Timeout: 0 , Step: 6.0 +/- 0.0
+6 : Time: 24.565 +/- 5.928 , Timeout: 0 , Step: 6.1 +/- 0.3
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10 , Step: 6.0 +/- 0.0
+
+ILP computations:
+1 : Time: 0.086 +/- 0.004 , Timeout: 0
+2 : Time: 0.398 +/- 0.012 , Timeout: 0
+3 : Time: 6.82 +/- 0.229 , Timeout: 0
+4 : Time: 40.071 +/- 0.709 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+7 : Total time: 554.564 +/- 446.558
+    Time for approximation: 225.63 +/- 79.86
+    Time for solving: 328.933 +/- 440.064
+    Timeout when solving: 3
+    Number of steps: 1.5 +/- 0.671
+    Number of times the starting DFA worked (no timeout): 5
+
+File 09:
+Symbolic computations:
+1 : Time: 0.033 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.155 +/- 0.009 , Timeout: 0 , Step: 3.1 +/- 0.3
+3 : Time: 0.344 +/- 0.045 , Timeout: 0 , Step: 5.7 +/- 0.64
+4 : Time: 1.81 +/- 0.099 , Timeout: 0 , Step: 6.8 +/- 0.6
+5 : Time: 2.764 +/- 0.149 , Timeout: 0 , Step: 6.4 +/- 0.663
+6 : Time: 6.322 +/- 0.793 , Timeout: 0 , Step: 7.0 +/- 1.0
+7 : Time: 25.008 +/- 3.312 , Timeout: 0 , Step: 8.9 +/- 1.044
+8 : Time: 142.199 +/- 26.948 , Timeout: 0 , Step: 10.8 +/- 0.872
+
+ILP computations:
+1 : Time: 1.063 +/- 0.318 , Timeout: 0
+2 : Time: 4.33 +/- 1.103 , Timeout: 0
+3 : Time: 24.253 +/- 10.015 , Timeout: 0
+4 : Time: 172.968 +/- 14.645 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 10:
+Symbolic computations:
+1 : Time: 0.034 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.163 +/- 0.009 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.545 +/- 0.025 , Timeout: 0 , Step: 4.0 +/- 0.0
+4 : Time: 1.359 +/- 0.069 , Timeout: 0 , Step: 6.0 +/- 0.0
+5 : Time: 3.139 +/- 0.728 , Timeout: 0 , Step: 8.2 +/- 0.748
+6 : Time: 11.124 +/- 3.785 , Timeout: 0 , Step: 9.7 +/- 1.847
+7 : Time: 36.293 +/- 13.767 , Timeout: 0 , Step: 11.1 +/- 1.972
+8 : Time: 94.781 +/- 28.252 , Timeout: 0 , Step: 13.8 +/- 1.536
+
+ILP computations:
+1 : Time: 0.007 +/- 0.001 , Timeout: 0
+2 : Time: 0.034 +/- 0.001 , Timeout: 0
+3 : Time: 0.389 +/- 0.03 , Timeout: 0
+4 : Time: 3.746 +/- 0.143 , Timeout: 0
+5 : Time: 27.687 +/- 4.149 , Timeout: 0
+6 : Time: 124.564 +/- 4.666 , Timeout: 0
+7 : Time: 371.508 +/- 34.531 , Timeout: 0
+8 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 11:
+Symbolic computations:
+1 : Time: 0.033 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.174 +/- 0.016 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.717 +/- 0.238 , Timeout: 0 , Step: 4.6 +/- 0.8
+4 : Time: 2.052 +/- 0.479 , Timeout: 0 , Step: 5.5 +/- 0.671
+5 : Time: 3.21 +/- 0.57 , Timeout: 0 , Step: 5.7 +/- 0.9
+6 : Time: 11.135 +/- 3.002 , Timeout: 0 , Step: 8.9 +/- 0.7
+7 : Time: 36.361 +/- 8.954 , Timeout: 0 , Step: 10.0 +/- 0.775
+8 : Time: 156.973 +/- 26.571 , Timeout: 0 , Step: 9.6 +/- 0.663
+
+ILP computations:
+1 : Time: 0.086 +/- 0.108 , Timeout: 0
+2 : Time: 0.213 +/- 0.005 , Timeout: 0
+3 : Time: 1.715 +/- 0.106 , Timeout: 0
+4 : Time: 28.8 +/- 3.683 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 12:
+Symbolic computations:
+1 : Time: 0.035 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.211 +/- 0.03 , Timeout: 0 , Step: 2.2 +/- 0.4
+3 : Time: 0.758 +/- 0.204 , Timeout: 0 , Step: 4.3 +/- 0.781
+4 : Time: 1.416 +/- 0.388 , Timeout: 0 , Step: 6.1 +/- 1.136
+5 : Time: 2.196 +/- 0.707 , Timeout: 0 , Step: 7.1 +/- 1.758
+6 : Time: 10.497 +/- 2.965 , Timeout: 0 , Step: 10.6 +/- 2.107
+7 : Time: 46.768 +/- 11.401 , Timeout: 0 , Step: 11.8 +/- 2.227
+8 : Time: 356.267 +/- 139.675 , Timeout: 0 , Step: 12.6 +/- 2.835
+
+ILP computations:
+1 : Time: 1.318 +/- 0.031 , Timeout: 0
+2 : Time: 5.204 +/- 0.437 , Timeout: 0
+3 : Time: 76.66 +/- 6.492 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 13:
+Symbolic computations:
+1 : Time: 0.018 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.074 +/- 0.007 , Timeout: 0 , Step: 3.1 +/- 0.3
+3 : Time: 0.204 +/- 0.013 , Timeout: 0 , Step: 4.1 +/- 0.3
+4 : Time: 0.914 +/- 0.134 , Timeout: 0 , Step: 7.0 +/- 0.447
+5 : Time: 1.199 +/- 0.293 , Timeout: 0 , Step: 8.2 +/- 0.4
+6 : Time: 7.647 +/- 3.497 , Timeout: 0 , Step: 11.0 +/- 1.265
+7 : Time: 18.193 +/- 5.681 , Timeout: 0 , Step: 13.2 +/- 1.327
+8 : Time: 98.597 +/- 13.336 , Timeout: 0 , Step: 15.3 +/- 1.676
+
+ILP computations:
+1 : Time: 0.082 +/- 0.209 , Timeout: 0
+2 : Time: 0.048 +/- 0.009 , Timeout: 0
+3 : Time: 0.56 +/- 0.024 , Timeout: 0
+4 : Time: 4.942 +/- 0.471 , Timeout: 0
+5 : Time: 108.526 +/- 44.531 , Timeout: 0
+6 : Time: 533.954 +/- 27.705 , Timeout: 0
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 14:
+Symbolic computations:
+1 : Time: 0.018 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.082 +/- 0.007 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.524 +/- 0.047 , Timeout: 0 , Step: 3.0 +/- 0.0
+4 : Time: 1.968 +/- 1.042 , Timeout: 0 , Step: 4.8 +/- 0.98
+5 : Time: 9.04 +/- 2.978 , Timeout: 0 , Step: 8.3 +/- 0.9
+6 : Time: 19.452 +/- 5.178 , Timeout: 0 , Step: 11.1 +/- 1.136
+7 : Time: 65.916 +/- 19.863 , Timeout: 0 , Step: 10.6 +/- 1.114
+8 : Time: 211.306 +/- 100.122 , Timeout: 0 , Step: 12.6 +/- 0.917
+
+ILP computations:
+1 : Time: 0.187 +/- 0.028 , Timeout: 0
+2 : Time: 0.707 +/- 0.008 , Timeout: 0
+3 : Time: 8.776 +/- 0.508 , Timeout: 0
+4 : Time: 317.494 +/- 24.138 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 15:
+Symbolic computations:
+1 : Time: 0.016 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.085 +/- 0.01 , Timeout: 0 , Step: 2.1 +/- 0.3
+3 : Time: 0.335 +/- 0.166 , Timeout: 0 , Step: 3.9 +/- 0.3
+4 : Time: 2.846 +/- 1.795 , Timeout: 0 , Step: 5.5 +/- 0.5
+5 : Time: 10.22 +/- 1.996 , Timeout: 0 , Step: 6.5 +/- 0.671
+6 : Time: 37.853 +/- 15.759 , Timeout: 0 , Step: 8.6 +/- 0.49
+7 : Time: 73.854 +/- 41.257 , Timeout: 0 , Step: 10.1 +/- 0.539
+8 : Time: 803.32 +/- 213.029 , Timeout: 5 , Step: 12.1 +/- 1.578
+
+ILP computations:
+1 : Time: 1.096 +/- 0.023 , Timeout: 0
+2 : Time: 4.969 +/- 0.144 , Timeout: 0
+3 : Time: 81.282 +/- 4.071 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 1398.379 +/- 100.101
+    Time for approximation: 431.803 +/- 26.321
+    Time for solving: 966.576 +/- 100.273
+    Timeout when solving: 9
+    Number of steps: 1.0 +/- 0.0
+    Number of times the starting DFA worked (no timeout): 1
+
+File 16:
+Symbolic computations:
+1 : Time: 0.033 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.185 +/- 0.013 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.611 +/- 0.126 , Timeout: 0 , Step: 3.0 +/- 0.0
+4 : Time: 1.295 +/- 0.371 , Timeout: 0 , Step: 4.3 +/- 0.458
+5 : Time: 2.643 +/- 0.454 , Timeout: 0 , Step: 5.5 +/- 1.204
+6 : Time: 6.462 +/- 1.14 , Timeout: 0 , Step: 7.6 +/- 0.917
+7 : Time: 22.795 +/- 7.634 , Timeout: 0 , Step: 11.3 +/- 1.616
+8 : Time: 73.019 +/- 18.836 , Timeout: 0 , Step: 13.1 +/- 1.868
+
+ILP computations:
+1 : Time: 0.037 +/- 0.093 , Timeout: 0
+2 : Time: 0.019 +/- 0.002 , Timeout: 0
+3 : Time: 0.227 +/- 0.013 , Timeout: 0
+4 : Time: 2.8 +/- 0.163 , Timeout: 0
+5 : Time: 68.437 +/- 9.467 , Timeout: 0
+6 : Time: 34.507 +/- 6.037 , Timeout: 0
+7 : Time: 319.315 +/- 28.109 , Timeout: 0
+8 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 17:
+Symbolic computations:
+1 : Time: 0.034 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.183 +/- 0.018 , Timeout: 0 , Step: 2.9 +/- 0.3
+3 : Time: 0.783 +/- 0.242 , Timeout: 0 , Step: 4.9 +/- 0.3
+4 : Time: 2.195 +/- 0.43 , Timeout: 0 , Step: 5.9 +/- 0.7
+5 : Time: 8.521 +/- 3.271 , Timeout: 0 , Step: 7.6 +/- 0.917
+6 : Time: 17.46 +/- 2.362 , Timeout: 0 , Step: 10.3 +/- 1.1
+7 : Time: 61.634 +/- 17.962 , Timeout: 0 , Step: 10.6 +/- 0.917
+8 : Time: 597.281 +/- 329.725 , Timeout: 4 , Step: 12.1 +/- 1.136
+
+ILP computations:
+1 : Time: 0.051 +/- 0.002 , Timeout: 0
+2 : Time: 0.228 +/- 0.01 , Timeout: 0
+3 : Time: 2.491 +/- 0.114 , Timeout: 0
+4 : Time: 277.436 +/- 15.243 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 649.373 +/- 65.792
+    Time for approximation: 464.112 +/- 27.754
+    Time for solving: 185.261 +/- 51.01
+    Timeout when solving: 0
+    Number of steps: 3.0 +/- 2.324
+    Number of times the starting DFA worked (no timeout): 5
+
+File 18:
+Symbolic computations:
+1 : Time: 0.03 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.168 +/- 0.03 , Timeout: 0 , Step: 3.0 +/- 0.0
+3 : Time: 0.5 +/- 0.148 , Timeout: 0 , Step: 4.5 +/- 0.5
+4 : Time: 1.629 +/- 0.304 , Timeout: 0 , Step: 6.4 +/- 0.49
+5 : Time: 5.793 +/- 2.069 , Timeout: 0 , Step: 8.2 +/- 0.98
+6 : Time: 17.445 +/- 5.353 , Timeout: 0 , Step: 9.9 +/- 0.539
+7 : Time: 63.795 +/- 19.682 , Timeout: 0 , Step: 12.8 +/- 0.748
+8 : Time: 480.091 +/- 251.463 , Timeout: 0 , Step: 13.8 +/- 0.872
+
+ILP computations:
+1 : Time: 1.35 +/- 0.014 , Timeout: 0
+2 : Time: 5.587 +/- 0.411 , Timeout: 0
+3 : Time: 68.238 +/- 6.681 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 19:
+Symbolic computations:
+1 : Time: 0.032 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.163 +/- 0.016 , Timeout: 0 , Step: 2.6 +/- 0.49
+3 : Time: 0.367 +/- 0.078 , Timeout: 0 , Step: 5.2 +/- 1.166
+4 : Time: 0.92 +/- 0.243 , Timeout: 0 , Step: 7.0 +/- 1.095
+5 : Time: 2.202 +/- 0.67 , Timeout: 0 , Step: 8.0 +/- 1.549
+6 : Time: 7.22 +/- 1.223 , Timeout: 0 , Step: 9.8 +/- 1.4
+7 : Time: 16.093 +/- 5.287 , Timeout: 0 , Step: 11.6 +/- 1.497
+8 : Time: 48.084 +/- 8.06 , Timeout: 0 , Step: 13.8 +/- 2.04
+
+ILP computations:
+1 : Time: 0.007 +/- 0.001 , Timeout: 0
+2 : Time: 0.023 +/- 0.001 , Timeout: 0
+3 : Time: 0.331 +/- 0.02 , Timeout: 0
+4 : Time: 2.064 +/- 0.344 , Timeout: 0
+5 : Time: 70.763 +/- 10.42 , Timeout: 0
+6 : Time: 72.026 +/- 9.927 , Timeout: 0
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 20:
+Symbolic computations:
+1 : Time: 0.034 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.209 +/- 0.016 , Timeout: 0 , Step: 2.2 +/- 0.4
+3 : Time: 0.554 +/- 0.239 , Timeout: 0 , Step: 3.6 +/- 0.49
+4 : Time: 2.461 +/- 1.43 , Timeout: 0 , Step: 5.6 +/- 1.2
+5 : Time: 4.39 +/- 2.087 , Timeout: 0 , Step: 7.3 +/- 1.792
+6 : Time: 15.239 +/- 8.37 , Timeout: 0 , Step: 8.3 +/- 1.735
+7 : Time: 50.405 +/- 10.658 , Timeout: 0 , Step: 10.0 +/- 1.095
+8 : Time: 251.237 +/- 44.718 , Timeout: 0 , Step: 12.2 +/- 1.536
+
+ILP computations:
+1 : Time: 0.082 +/- 0.007 , Timeout: 0
+2 : Time: 0.378 +/- 0.012 , Timeout: 0
+3 : Time: 4.272 +/- 0.175 , Timeout: 0
+4 : Time: 779.94 +/- 12.785 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 21:
+Symbolic computations:
+1 : Time: 0.017 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.084 +/- 0.014 , Timeout: 0 , Step: 2.8 +/- 0.4
+3 : Time: 0.164 +/- 0.033 , Timeout: 0 , Step: 3.7 +/- 0.64
+4 : Time: 0.411 +/- 0.126 , Timeout: 0 , Step: 4.9 +/- 0.3
+5 : Time: 2.148 +/- 0.376 , Timeout: 0 , Step: 7.1 +/- 0.539
+6 : Time: 12.942 +/- 5.812 , Timeout: 0 , Step: 9.4 +/- 1.2
+7 : Time: 150.212 +/- 55.698 , Timeout: 0 , Step: 10.1 +/- 0.831
+8 : Time: 972.694 +/- 81.917 , Timeout: 9 , Step: 12.5 +/- 1.285
+
+ILP computations:
+1 : Time: 0.566 +/- 0.135 , Timeout: 0
+2 : Time: 2.274 +/- 0.025 , Timeout: 0
+3 : Time: 28.574 +/- 3.284 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 1173.375 +/- 282.184
+    Time for approximation: 387.443 +/- 21.542
+    Time for solving: 785.933 +/- 290.302
+    Timeout when solving: 5
+    Number of steps: 1.0 +/- 0.0
+    Number of times the starting DFA worked (no timeout): 5
+
+File 22:
+Symbolic computations:
+1 : Time: 0.018 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.104 +/- 0.016 , Timeout: 0 , Step: 3.0 +/- 0.0
+3 : Time: 0.265 +/- 0.03 , Timeout: 0 , Step: 3.9 +/- 0.3
+4 : Time: 0.774 +/- 0.042 , Timeout: 0 , Step: 4.6 +/- 0.49
+5 : Time: 2.795 +/- 1.237 , Timeout: 0 , Step: 7.3 +/- 0.9
+6 : Time: 6.079 +/- 2.189 , Timeout: 0 , Step: 8.5 +/- 0.922
+7 : Time: 12.863 +/- 5.198 , Timeout: 0 , Step: 9.9 +/- 1.578
+8 : Time: 58.381 +/- 6.828 , Timeout: 0 , Step: 11.3 +/- 1.792
+
+ILP computations:
+1 : Time: 0.007 +/- 0.001 , Timeout: 0
+2 : Time: 0.024 +/- 0.0 , Timeout: 0
+3 : Time: 0.317 +/- 0.017 , Timeout: 0
+4 : Time: 14.216 +/- 1.826 , Timeout: 0
+5 : Time: 52.613 +/- 7.13 , Timeout: 0
+6 : Time: 111.28 +/- 12.306 , Timeout: 0
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 23:
+Symbolic computations:
+1 : Time: 0.018 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.077 +/- 0.015 , Timeout: 0 , Step: 2.5 +/- 0.5
+3 : Time: 0.265 +/- 0.016 , Timeout: 0 , Step: 4.8 +/- 0.4
+4 : Time: 1.597 +/- 0.268 , Timeout: 0 , Step: 6.8 +/- 0.6
+5 : Time: 3.586 +/- 1.342 , Timeout: 0 , Step: 7.4 +/- 1.114
+6 : Time: 11.051 +/- 4.541 , Timeout: 0 , Step: 8.2 +/- 1.077
+7 : Time: 38.911 +/- 7.55 , Timeout: 0 , Step: 9.5 +/- 0.5
+8 : Time: 328.791 +/- 111.776 , Timeout: 0 , Step: 10.7 +/- 1.418
+
+ILP computations:
+1 : Time: 0.056 +/- 0.006 , Timeout: 0
+2 : Time: 0.214 +/- 0.004 , Timeout: 0
+3 : Time: 3.819 +/- 0.492 , Timeout: 0
+4 : Time: 127.111 +/- 3.209 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 24:
+Symbolic computations:
+1 : Time: 0.019 +/- 0.003 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.093 +/- 0.013 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.409 +/- 0.186 , Timeout: 0 , Step: 3.7 +/- 0.64
+4 : Time: 1.251 +/- 0.624 , Timeout: 0 , Step: 5.5 +/- 0.5
+5 : Time: 2.642 +/- 0.794 , Timeout: 0 , Step: 6.7 +/- 0.9
+6 : Time: 15.145 +/- 6.015 , Timeout: 0 , Step: 8.2 +/- 0.872
+7 : Time: 61.214 +/- 17.901 , Timeout: 0 , Step: 10.2 +/- 0.98
+8 : Time: 647.085 +/- 263.089 , Timeout: 3 , Step: 13.1 +/- 1.221
+
+ILP computations:
+1 : Time: 1.217 +/- 0.017 , Timeout: 0
+2 : Time: 5.326 +/- 0.108 , Timeout: 0
+3 : Time: 133.146 +/- 4.594 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 1237.708 +/- 262.217
+    Time for approximation: 538.241 +/- 13.153
+    Time for solving: 699.466 +/- 263.773
+    Timeout when solving: 3
+    Number of steps: 1.1 +/- 0.3
+    Number of times the starting DFA worked (no timeout): 7
+
+File 25:
+Symbolic computations:
+1 : Time: 0.016 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.089 +/- 0.007 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.201 +/- 0.058 , Timeout: 0 , Step: 3.9 +/- 0.7
+4 : Time: 0.521 +/- 0.131 , Timeout: 0 , Step: 5.5 +/- 0.806
+5 : Time: 2.003 +/- 0.851 , Timeout: 0 , Step: 6.8 +/- 0.748
+6 : Time: 5.563 +/- 1.607 , Timeout: 0 , Step: 8.7 +/- 0.9
+7 : Time: 16.382 +/- 5.769 , Timeout: 0 , Step: 10.6 +/- 1.2
+8 : Time: 79.579 +/- 20.78 , Timeout: 0 , Step: 13.5 +/- 1.5
+
+ILP computations:
+1 : Time: 0.252 +/- 0.741 , Timeout: 0
+2 : Time: 0.022 +/- 0.006 , Timeout: 0
+3 : Time: 0.243 +/- 0.014 , Timeout: 0
+4 : Time: 4.62 +/- 0.524 , Timeout: 0
+5 : Time: 77.018 +/- 11.092 , Timeout: 0
+6 : Time: 239.422 +/- 13.649 , Timeout: 0
+7 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 26:
+Symbolic computations:
+1 : Time: 0.018 +/- 0.001 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.078 +/- 0.006 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.222 +/- 0.061 , Timeout: 0 , Step: 3.0 +/- 0.0
+4 : Time: 2.214 +/- 0.382 , Timeout: 0 , Step: 4.7 +/- 0.458
+5 : Time: 5.497 +/- 2.115 , Timeout: 0 , Step: 6.1 +/- 0.3
+6 : Time: 16.478 +/- 5.747 , Timeout: 0 , Step: 7.7 +/- 0.781
+7 : Time: 71.18 +/- 33.103 , Timeout: 0 , Step: 9.6 +/- 0.663
+8 : Time: 497.521 +/- 169.083 , Timeout: 0 , Step: 10.5 +/- 1.118
+
+ILP computations:
+1 : Time: 0.049 +/- 0.001 , Timeout: 0
+2 : Time: 0.227 +/- 0.008 , Timeout: 0
+3 : Time: 2.508 +/- 0.135 , Timeout: 0
+4 : Time: 616.048 +/- 7.981 , Timeout: 0
+5 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+No approximation done with this file
+
+File 27:
+Symbolic computations:
+1 : Time: 0.018 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.093 +/- 0.006 , Timeout: 0 , Step: 2.0 +/- 0.0
+3 : Time: 0.371 +/- 0.083 , Timeout: 0 , Step: 3.4 +/- 0.49
+4 : Time: 0.811 +/- 0.196 , Timeout: 0 , Step: 4.4 +/- 0.49
+5 : Time: 4.445 +/- 1.395 , Timeout: 0 , Step: 5.9 +/- 0.943
+6 : Time: 14.78 +/- 5.686 , Timeout: 0 , Step: 7.5 +/- 1.204
+7 : Time: 62.844 +/- 29.613 , Timeout: 0 , Step: 9.5 +/- 1.025
+8 : Time: 590.256 +/- 311.124 , Timeout: 3 , Step: 10.6 +/- 1.2
+
+ILP computations:
+1 : Time: 0.922 +/- 0.015 , Timeout: 0
+2 : Time: 3.944 +/- 0.038 , Timeout: 0
+3 : Time: 150.866 +/- 62.786 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 1477.334 +/- 198.321
+    Time for approximation: 557.833 +/- 25.762
+    Time for solving: 919.501 +/- 216.953
+    Timeout when solving: 7
+    Number of steps: 1.0 +/- 0.0
+    Number of times the starting DFA worked (no timeout): 3
+
+File 28:
+Symbolic computations:
+1 : Time: 0.016 +/- 0.002 , Timeout: 0 , Step: 1.0 +/- 0.0
+2 : Time: 0.11 +/- 0.017 , Timeout: 0 , Step: 2.3 +/- 0.458
+3 : Time: 0.255 +/- 0.123 , Timeout: 0 , Step: 3.5 +/- 0.5
+4 : Time: 1.097 +/- 0.533 , Timeout: 0 , Step: 6.7 +/- 1.847
+5 : Time: 6.492 +/- 2.408 , Timeout: 0 , Step: 9.2 +/- 2.227
+6 : Time: 31.51 +/- 22.551 , Timeout: 0 , Step: 10.9 +/- 2.211
+7 : Time: 168.884 +/- 130.209 , Timeout: 0 , Step: 12.0 +/- 2.757
+8 : Time: 856.321 +/- 219.51 , Timeout: 7 , Step: 14.2 +/- 2.135
+
+ILP computations:
+1 : Time: 4.265 +/- 0.127 , Timeout: 0
+2 : Time: 21.095 +/- 2.059 , Timeout: 0
+3 : Time: 487.384 +/- 19.112 , Timeout: 0
+4 : Time: 1000.0 +/- 0.0 , Timeout: 10
+
+Heuristic algorithm + Symbolic algorithm:
+8 : Total time: 1432.671 +/- 187.635
+    Time for approximation: 601.356 +/- 34.91
+    Time for solving: 831.315 +/- 190.906
+    Timeout when solving: 5
+    Number of steps: 1.2 +/- 0.6
+    Number of times the starting DFA worked (no timeout): 4
+

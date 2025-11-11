@@ -1,0 +1,58 @@
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2666615
+Academic license 2666615 - for non-commercial use only - registered to be___@tu-dortmund.de
+Set parameter TimeLimit to value 1000
+Gurobi Optimizer version 12.0.2 build v12.0.2rc0 (linux64 - "Ubuntu 24.04.2 LTS")
+
+CPU model: 13th Gen Intel(R) Core(TM) i7-1365U, instruction set [SSE2|AVX|AVX2]
+Thread count: 12 physical cores, 12 logical processors, using up to 12 threads
+
+Non-default parameters:
+TimeLimit  1000
+
+Academic license 2666615 - for non-commercial use only - registered to be___@tu-dortmund.de
+Optimize a model with 22608 rows, 8268 columns and 61661 nonzeros
+Model fingerprint: 0x6874ab11
+Variable types: 0 continuous, 8268 integer (8232 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+01]
+Presolve removed 6840 rows and 5098 columns
+Presolve time: 0.13s
+Presolved: 15768 rows, 3170 columns, 45724 nonzeros
+Variable types: 0 continuous, 3170 integer (3140 binary)
+Found heuristic solution: objective 13.0000000
+
+Root relaxation: objective 3.076923e-01, 4959 iterations, 0.32 seconds (0.74 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.30769    0 2629   13.00000    0.30769  97.6%     -    0s
+H    0     0                      12.0000000    0.30769  97.4%     -    1s
+H    0     0                      10.0000000    0.30769  96.9%     -    1s
+     0     0   10.00000    0 3064   10.00000   10.00000  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 8
+  Implied bound: 6
+  Clique: 79
+  MIR: 23
+  Zero half: 266
+  RLT: 644
+  Relax-and-lift: 5
+  BQP: 2
+
+Explored 1 nodes (17163 simplex iterations) in 1.53 seconds (2.54 work units)
+Thread count was 12 (of 12 available processors)
+
+Solution count 3: 10 12 13 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.000000000000e+01, best bound 1.000000000000e+01, gap 0.0000%
+Obj: 10
+19.04s elapsed

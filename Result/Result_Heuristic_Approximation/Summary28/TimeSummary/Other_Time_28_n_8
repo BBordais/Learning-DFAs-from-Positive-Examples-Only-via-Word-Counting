@@ -1,0 +1,22 @@
+For approximation: 579.262s elapsed
+For solving from starting DFA: 466.019s elapsed
+The starting DFA worked!
+
+For approximation: 612.667s elapsed
+For solving from starting DFA: 773.524s elapsed
+The starting DFA worked!
+
+For approximation: 594.831s elapsed
+For solving from starting DFA: 800.673s elapsed
+The starting DFA worked!
+
+For approximation: 679.231s elapsed
+For solving from starting DFA: 571.177s elapsed
+DFA found in: 101.231s
+
+For approximation: 611.559s elapsed
+For solving from starting DFA: Timeout: 1000s
+
+For approximation: 636.686s elapsed
+For solving from starting DFA: Timeout: 1000s
+
