@@ -1,0 +1,13 @@
+digraph g {
+__start [label=""shape=none]
+	1[shape="circle" label="1"]
+	0[shape="doublecircle" label="0"]
+
+__start -> 1
+	0 -> 1 [label="a"]
+	0 -> 0 [label="b"]
+	0 -> 0 [label="c"]
+	1 -> 1 [label="a"]
+	1 -> 0 [label="b"]
+	1 -> 0 [label="c"]
+}

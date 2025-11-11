@@ -1,0 +1,14 @@
+# install all python requirements using a single command:
+# $ pip install -r requirements.txt
+
+pytictoc
+termcolor
+
+aalpy
+lark
+graphviz
+z3-solver
+python-sat
+
+ltlf2dfa
+clingo

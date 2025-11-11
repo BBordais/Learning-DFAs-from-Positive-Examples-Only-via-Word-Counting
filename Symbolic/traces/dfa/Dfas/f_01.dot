@@ -1,0 +1,12 @@
+digraph f:01 {
+s1 [label="s1"];
+s2 [label="s2", shape=doublecircle];
+s1 -> s1 [label="a"];
+s1 -> s2 [label="b"];
+s1 -> s2 [label="c"];
+s2 -> s1 [label="a"];
+s2 -> s2 [label="b"];
+s2 -> s1 [label="c"];
+__start0 [shape=none, label=""];
+__start0 -> s1 [label=""];
+}
