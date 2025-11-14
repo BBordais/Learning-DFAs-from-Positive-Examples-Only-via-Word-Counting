@@ -84,8 +84,7 @@ Contains the python file Main.py which implements our ILP encoding in Gurobi.
 Contains the results of all of our experiments. Each of the three folders Result_Heuristic_Approximation, Result_ILP, Result_Symbolic contains 28
 folders each corresponding to the associated Traces file. Each of these folders contains itself three folders: Detailed Summary, which stores 
 the outputs of the algorithms; DFAs, which stores the computed DFAs; and TimeSummary which stores files the times taken by all the computations.
-In addition, the file Result/Summary.txt summarizes the times taken by all cumputations, and the file Result/CorelationCoefficients.txt stores 
-the Pearson corelation coefficient for each heuristic computation.
+In addition, the file Result/Summary.txt summarizes the times taken by all cumputations, and the file Result/CorelationCoefficients.txt stores the Pearson corelation coefficient for each heuristic computation (computed with the python function numpy.corrcoef).
 
 ``Run_Exp``
 Contains the shell files used to run the different experiments, and gather all results. If one wants to run again experiments with those files, 
